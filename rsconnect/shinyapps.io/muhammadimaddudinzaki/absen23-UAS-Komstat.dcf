@@ -1,0 +1,13 @@
+name: absen23-UAS-Komstat
+title: absen23-UAS-Komstat
+username: muhammadimaddudinzaki
+account: muhammadimaddudinzaki
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15111988
+bundleId: 10659397
+url: https://muhammadimaddudinzaki.shinyapps.io/absen23-UAS-Komstat/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Pakta Integritas UAS Komputasi Statistik.pdf|www/2KS3_222313244_Muhammad Imaddudin Zaki_UAS.pdf
